@@ -1,0 +1,1078 @@
+.i-phone {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.i-phone .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 375px;
+  height: 8020px;
+  position: relative;
+}
+
+.i-phone .view {
+  position: absolute;
+  width: 379px;
+  height: 686px;
+  top: 7334px;
+  left: 0;
+}
+
+.i-phone .overlap {
+  position: absolute;
+  width: 375px;
+  height: 151px;
+  top: 535px;
+  left: 0;
+  background-image: url(./img/rectangle-169.svg);
+  background-size: 100% 100%;
+}
+
+.i-phone .view-2 {
+  position: absolute;
+  width: 236px;
+  height: 24px;
+  top: 89px;
+  left: 70px;
+}
+
+.i-phone .image {
+  position: absolute;
+  width: 117px;
+  height: 21px;
+  top: 2px;
+  left: 118px;
+}
+
+.i-phone .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #919498;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 24px;
+  white-space: nowrap;
+}
+
+.i-phone .element-rangi {
+  position: absolute;
+  width: 239px;
+  top: 30px;
+  left: 68px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #919498;
+  font-size: 13px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.i-phone .span {
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #919498;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.i-phone .overlap-group {
+  position: absolute;
+  width: 375px;
+  height: 535px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-168.svg);
+  background-size: 100% 100%;
+}
+
+.i-phone .view-3 {
+  position: absolute;
+  width: 201px;
+  height: 129px;
+  top: 244px;
+  left: 89px;
+}
+
+.i-phone .overlap-group-wrapper {
+  position: absolute;
+  width: 199px;
+  height: 50px;
+  top: 79px;
+  left: 0;
+}
+
+.i-phone .div-wrapper {
+  position: relative;
+  width: 197px;
+  height: 50px;
+  background-color: #ffd600;
+  border-radius: 100px;
+}
+
+.i-phone .text-wrapper-2 {
+  position: absolute;
+  top: 16px;
+  left: 26px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #333845;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.i-phone .text-wrapper-3 {
+  position: absolute;
+  top: 32px;
+  left: 44px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #909497;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 36px;
+  white-space: nowrap;
+}
+
+.i-phone .text-wrapper-4 {
+  height: 24px;
+  top: 0;
+  left: 49px;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  line-height: normal;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.i-phone .view-4 {
+  position: absolute;
+  width: 216px;
+  height: 79px;
+  top: 402px;
+  left: 80px;
+}
+
+.i-phone .btn {
+  position: absolute;
+  width: 130px;
+  height: 37px;
+  top: 42px;
+  left: 42px;
+}
+
+.i-phone .element {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 0;
+  left: 93px;
+  background-color: #323c46;
+  border-radius: 5px;
+}
+
+.i-phone .telegram {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  top: 11px;
+  left: 10px;
+}
+
+.i-phone .vk-social-network-wrapper {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 0;
+  left: 47px;
+  background-color: #323c46;
+  border-radius: 5px;
+}
+
+.i-phone .vk-social-network {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  top: 10px;
+  left: 9px;
+}
+
+.i-phone .whatsapp-wrapper {
+  position: absolute;
+  width: 37px;
+  height: 37px;
+  top: 0;
+  left: 0;
+  background-color: #323c46;
+  border-radius: 5px;
+}
+
+.i-phone .whatsapp {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 10px;
+  left: 11px;
+}
+
+.i-phone .text-wrapper-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Segoe UI-Semibold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.i-phone .p {
+  width: 326px;
+  top: 93px;
+  left: 25px;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #919498;
+  font-size: 11px;
+  text-align: center;
+  line-height: 17px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-6 {
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #919498;
+  font-size: 11px;
+  letter-spacing: 0;
+  line-height: 17px;
+}
+
+.i-phone .text-wrapper-7 {
+  text-decoration: underline;
+}
+
+.i-phone .img {
+  position: absolute;
+  width: 125px;
+  height: 33px;
+  top: 44px;
+  left: 125px;
+}
+
+.i-phone .view-5 {
+  position: absolute;
+  width: 333px;
+  height: 308px;
+  top: 6936px;
+  left: 23px;
+}
+
+.i-phone .view-6 {
+  position: absolute;
+  width: 322px;
+  height: 57px;
+  top: 250px;
+  left: 5px;
+}
+
+.i-phone .overlap-group-2 {
+  position: relative;
+  width: 320px;
+  height: 57px;
+  background-color: #ffd600;
+  border-radius: 100px;
+}
+
+.i-phone .text-wrapper-8 {
+  width: 314px;
+  top: 18px;
+  left: 2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #333845;
+  font-size: 16px;
+  text-align: center;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-9 {
+  width: 242px;
+  top: 164px;
+  left: 43px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #687186;
+  font-size: 16px;
+  text-align: center;
+  line-height: 26px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-10 {
+  width: 329px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333845;
+  font-size: 24px;
+  text-align: center;
+  line-height: 39px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .view-7 {
+  position: absolute;
+  width: 339px;
+  height: 2129px;
+  top: 4738px;
+  left: 20px;
+}
+
+.i-phone .overlap-wrapper {
+  position: absolute;
+  width: 339px;
+  height: 278px;
+  top: 203px;
+  left: 0;
+}
+
+.i-phone .overlap-2 {
+  position: relative;
+  width: 335px;
+  height: 278px;
+  background-color: #f4f4f4;
+  border-radius: 20px;
+}
+
+.i-phone .text-wrapper-11 {
+  width: 287px;
+  top: 71px;
+  left: 30px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #4e5762;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-12 {
+  top: 30px;
+  left: 81px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #2a3848;
+  font-size: 20px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .group {
+  position: absolute;
+  width: 41px;
+  height: 39px;
+  top: 22px;
+  left: 30px;
+}
+
+.i-phone .overlap-group-3 {
+  position: relative;
+  width: 39px;
+  height: 39px;
+  background-color: #ffd600;
+  border-radius: 10px;
+}
+
+.i-phone .text-wrapper-13 {
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #2a3848;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.i-phone .element-2 {
+  position: absolute;
+  width: 339px;
+  height: 278px;
+  top: 512px;
+  left: 0;
+}
+
+.i-phone .text-wrapper-14 {
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #2a3848;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 26px;
+  white-space: nowrap;
+}
+
+.i-phone .element-3 {
+  position: absolute;
+  width: 339px;
+  height: 302px;
+  top: 822px;
+  left: 0;
+}
+
+.i-phone .overlap-3 {
+  position: relative;
+  width: 335px;
+  height: 302px;
+  background-color: #f4f4f4;
+  border-radius: 20px;
+}
+
+.i-phone .element-4 {
+  position: absolute;
+  width: 339px;
+  height: 303px;
+  top: 1156px;
+  left: 0;
+}
+
+.i-phone .overlap-4 {
+  position: relative;
+  width: 335px;
+  height: 303px;
+  background-color: #f4f4f4;
+  border-radius: 20px;
+}
+
+.i-phone .element-5 {
+  position: absolute;
+  width: 339px;
+  height: 302px;
+  top: 1492px;
+  left: 0;
+}
+
+.i-phone .element-6 {
+  width: 339px;
+  height: 303px;
+  top: 1826px;
+  position: absolute;
+  left: 0;
+}
+
+.i-phone .text-wrapper-15 {
+  width: 335px;
+  top: 55px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333845;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-16 {
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333845;
+  font-size: 26px;
+  line-height: 46px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .view-8 {
+  position: absolute;
+  width: 419px;
+  height: 1135px;
+  top: 3549px;
+  left: 0;
+}
+
+.i-phone .overlap-5 {
+  position: relative;
+  width: 375px;
+  height: 1135px;
+}
+
+.i-phone .rectangle {
+  position: absolute;
+  width: 355px;
+  height: 1079px;
+  top: 0;
+  left: 0;
+  border-radius: 0px 20px 20px 0px;
+  background: linear-gradient(180deg, rgb(42, 56, 72) 0%, rgb(70.28, 86.08, 104.12) 100%);
+}
+
+.i-phone .element-7 {
+  position: absolute;
+  width: 363px;
+  height: 244px;
+  top: 892px;
+  left: 12px;
+  object-fit: cover;
+}
+
+.i-phone .rangi-ru-rangi-ru {
+  position: absolute;
+  width: 333px;
+  top: 144px;
+  left: 22px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffffb2;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 26px;
+}
+
+.i-phone .text-wrapper-17 {
+  top: 55px;
+  left: 21px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 26px;
+  line-height: 36px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .rangi-ru {
+  position: absolute;
+  width: 340px;
+  height: 182px;
+  top: 3311px;
+  left: 19px;
+}
+
+.i-phone .text-wrapper-18 {
+  width: 334px;
+  top: 48px;
+  left: 2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333845;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .view-9 {
+  position: absolute;
+  width: 337px;
+  height: 1960px;
+  top: 1300px;
+  left: 20px;
+}
+
+.i-phone .overlap-6 {
+  position: relative;
+  width: 335px;
+  height: 1960px;
+  background-color: #f7f7f7;
+  border-radius: 30px;
+}
+
+.i-phone .element-8 {
+  position: absolute;
+  width: 235px;
+  height: 338px;
+  top: 1579px;
+  left: 32px;
+}
+
+.i-phone .text-wrapper-19 {
+  top: 58px;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #333845;
+  font-size: 16px;
+  line-height: 40px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-20 {
+  top: 10px;
+  left: 64px;
+  font-family: "Segoe UI-Bold", Helvetica;
+  font-weight: 700;
+  color: #333845;
+  font-size: 18px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .img-wrapper {
+  position: absolute;
+  width: 47px;
+  height: 47px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.i-phone .picture {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 11px;
+  left: 11px;
+}
+
+.i-phone .element-9 {
+  position: absolute;
+  width: 277px;
+  height: 298px;
+  top: 1254px;
+  left: 32px;
+}
+
+.i-phone .text-wrapper-21 {
+  top: 10px;
+  left: 64px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333845;
+  font-size: 18px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .location {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 9px;
+  left: 11px;
+}
+
+.i-phone .element-10 {
+  position: absolute;
+  width: 234px;
+  height: 298px;
+  top: 929px;
+  left: 32px;
+}
+
+.i-phone .stethoscope {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 10px;
+  left: 9px;
+}
+
+.i-phone .element-11 {
+  position: absolute;
+  width: 214px;
+  height: 378px;
+  top: 524px;
+  left: 32px;
+}
+
+.i-phone .img-2 {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 10px;
+  left: 10px;
+}
+
+.i-phone .element-12 {
+  position: absolute;
+  width: 177px;
+  height: 378px;
+  top: 123px;
+  left: 32px;
+}
+
+.i-phone .rectangle-2 {
+  position: absolute;
+  width: 270px;
+  height: 1px;
+  top: 81px;
+  left: 32px;
+  background-color: #dceaf8;
+  border-radius: 3px;
+}
+
+.i-phone .text-wrapper-22 {
+  top: 38px;
+  left: 32px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 18px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .view-10 {
+  position: absolute;
+  width: 334px;
+  height: 782px;
+  top: 468px;
+  left: 21px;
+}
+
+.i-phone .element-13 {
+  width: 327px;
+  height: 96px;
+  top: 686px;
+  position: absolute;
+  left: 0;
+}
+
+.i-phone .text-wrapper-23 {
+  top: 50px;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  color: #687085;
+  font-size: 14px;
+  line-height: 23px;
+  position: absolute;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-24 {
+  width: 218px;
+  top: 0;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .overlap-group-4 {
+  position: absolute;
+  width: 63px;
+  height: 63px;
+  top: 4px;
+  left: 0;
+  background-color: #ffd600;
+  border-radius: 10px;
+}
+
+.i-phone .pin {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 20px;
+  left: 20px;
+}
+
+.i-phone .element-14 {
+  position: absolute;
+  width: 308px;
+  height: 96px;
+  top: 558px;
+  left: 0;
+}
+
+.i-phone .text-wrapper-25 {
+  width: 222px;
+  top: 0;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .homepage {
+  position: absolute;
+  width: 23px;
+  height: 23px;
+  top: 20px;
+  left: 20px;
+}
+
+.i-phone .element-15 {
+  position: absolute;
+  width: 338px;
+  height: 122px;
+  top: 408px;
+  left: 0;
+}
+
+.i-phone .text-wrapper-26 {
+  width: 252px;
+  top: 50px;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #687085;
+  font-size: 14px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-27 {
+  width: 226px;
+  top: 0;
+  left: 82px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .img-3 {
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 19px;
+  left: 19px;
+}
+
+.i-phone .element-16 {
+  position: absolute;
+  width: 327px;
+  height: 116px;
+  top: 260px;
+  left: 0;
+}
+
+.i-phone .overlap-7 {
+  position: absolute;
+  width: 241px;
+  height: 116px;
+  top: 0;
+  left: 82px;
+}
+
+.i-phone .text-wrapper-28 {
+  top: 47px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #687085;
+  font-size: 14px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-29 {
+  width: 218px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23px;
+}
+
+.i-phone .element-17 {
+  position: absolute;
+  width: 299px;
+  height: 93px;
+  top: 130px;
+  left: 0;
+}
+
+.i-phone .overlap-8 {
+  position: absolute;
+  width: 213px;
+  height: 93px;
+  top: 0;
+  left: 82px;
+}
+
+.i-phone .text-wrapper-30 {
+  width: 209px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  line-height: 23px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .star {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 17px;
+  left: 17px;
+}
+
+.i-phone .element-18 {
+  position: absolute;
+  width: 318px;
+  height: 93px;
+  top: 0;
+  left: 0;
+}
+
+.i-phone .overlap-9 {
+  position: absolute;
+  width: 232px;
+  height: 93px;
+  top: 0;
+  left: 82px;
+}
+
+.i-phone .text-wrapper-31 {
+  width: 196px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #333845;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 23px;
+}
+
+.i-phone .trophy {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 17px;
+  left: 18px;
+}
+
+.i-phone .view-11 {
+  position: absolute;
+  width: 334px;
+  height: 371px;
+  top: 19px;
+  left: 20px;
+}
+
+.i-phone .view-12 {
+  position: absolute;
+  width: 246px;
+  height: 55px;
+  top: 316px;
+  left: 1px;
+}
+
+.i-phone .overlap-group-5 {
+  position: relative;
+  width: 244px;
+  height: 55px;
+  background-color: #ffd600;
+  border-radius: 100px;
+}
+
+.i-phone .text-wrapper-32 {
+  top: 14px;
+  left: 34px;
+  font-family: "Inter", Helvetica;
+  font-weight: 500;
+  color: #333845;
+  font-size: 16px;
+  text-align: center;
+  line-height: 26px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .view-13 {
+  position: absolute;
+  width: 328px;
+  height: 200px;
+  top: 90px;
+  left: 0;
+}
+
+.i-phone .text-wrapper-33 {
+  width: 294px;
+  top: 119px;
+  left: 0;
+  font-family: "Segoe UI-Regular", Helvetica;
+  font-weight: 400;
+  color: #687186;
+  font-size: 16px;
+  line-height: 26px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .text-wrapper-34 {
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #2a3848;
+  font-size: 26px;
+  line-height: 36px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.i-phone .image-2 {
+  position: absolute;
+  width: 334px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
